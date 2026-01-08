@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "category_hint": "familia",
+    "text_original": "Se solicita la custodia del menor y la fijación de una cuota de alimentos acorde a los ingresos del padre.",
+    "text_clean": "se solicita la custodia del menor y la fijacion de una cuota de alimentos acorde a los ingresos del padre",
+    "text_lemmatized": "solicitar custodia menor fijacion cuota alimento acorde ingreso padre"
+  },
+  {
+    "id": 2,
+    "category_hint": "familia",
+    "text_original": "La madre solicita la regulación del régimen de visitas en favor del bienestar del menor.",
+    "text_clean": "la madre solicita la regulacion del regimen de visitas en favor del bienestar del menor",
+    "text_lemmatized": "madre solicitar regulacion regimen visita favor bienestar menor"
+  },
+  {
+    "id": 3,
+    "category_hint": "familia",
+    "text_original": "Demanda de divorcio por mutuo acuerdo con liquidación de la sociedad conyugal.",
+    "text_clean": "demanda de divorcio por mutuo acuerdo con liquidacion de la sociedad conyugal",
+    "text_lemmatized": "demanda divorcio mutuo liquidacion sociedad conyugal"
+  },
+  {
+    "id": 4,
+    "category_hint": "familia",
+    "text_original": "Proceso de impugnación de la paternidad conforme a las pruebas genéticas aportadas.",
+    "text_clean": "proceso de impugnacion de la paternidad conforme a las pruebas geneticas aportadas",
+    "text_lemmatized": "proceso impugnacion paternidad conforme prueba genetica aportado"
+  },
+  {
+    "id": 5,
+    "category_hint": "familia",
+    "text_original": "Solicitud de adopción cumpliendo los requisitos legales establecidos por la ley.",
+    "text_clean": "solicitud de adopcion cumpliendo los requisitos legales establecidos por la ley",
+    "text_lemmatized": "solicitud adopcion cumplir requisito legal establecido ley"
+  },
+  {
+    "id": 6,
+    "category_hint": "familia",
+    "text_original": "Se pretende el aumento de la cuota alimentaria debido al cambio de condiciones económicas.",
+    "text_clean": "se pretende el aumento de la cuota alimentaria debido al cambio de condiciones economicas",
+    "text_lemmatized": "pretender aumento cuota alimentario cambio condición economica"
+  },
+  {
+    "id": 7,
+    "category_hint": "familia",
+    "text_original": "Demanda para la pérdida de la patria potestad por abandono del menor.",
+    "text_clean": "demanda para la perdida de la patria potestad por abandono del menor",
+    "text_lemmatized": "demanda perdida patria potestad abandono menor"
+  },
+  {
+    "id": 8,
+    "category_hint": "familia",
+    "text_original": "Proceso de separación de cuerpos con medidas provisionales sobre los hijos.",
+    "text_clean": "proceso de separacion de cuerpos con medidas provisionales sobre los hijos",
+    "text_lemmatized": "proceso separacion cuerpo medida provisional hijo"
+  },
+  {
+    "id": 9,
+    "category_hint": "familia",
+    "text_original": "Solicitud de custodia compartida garantizando la estabilidad emocional del menor.",
+    "text_clean": "solicitud de custodia compartida garantizando la estabilidad emocional del menor",
+    "text_lemmatized": "solicitud custodia compartido garantizar estabilidad emocional menor"
+  },
+  {
+    "id": 10,
+    "category_hint": "familia",
+    "text_original": "Revisión judicial del acuerdo de alimentos previamente aprobado.",
+    "text_clean": "revision judicial del acuerdo de alimentos previamente aprobado",
+    "text_lemmatized": "revision judicial alimento previamente aprobado"
+  },
+  {
+    "id": 11,
+    "category_hint": "laboral",
+    "text_original": "El trabajador fue despedido sin justa causa y solicita el pago de indemnización.",
+    "text_clean": "el trabajador fue despedido sin justa causa y solicita el pago de indemnizacion",
+    "text_lemmatized": "trabajador despedir justa causa solicitar pago indemnizacion"
+  },
+  {
+    "id": 12,
+    "category_hint": "laboral",
+    "text_original": "Demanda por incumplimiento en el pago de salarios y prestaciones sociales.",
+    "text_clean": "demanda por incumplimiento en el pago de salarios y prestaciones sociales",
+    "text_lemmatized": "demanda incumplimiento pago salario prestación social"
+  },
+  {
+    "id": 13,
+    "category_hint": "laboral",
+    "text_original": "Reclamación por acoso laboral que afectó la salud mental del trabajador.",
+    "text_clean": "reclamacion por acoso laboral que afecto la salud mental del trabajador",
+    "text_lemmatized": "reclamacion acoso laboral afecto salud mental trabajador"
+  },
+  {
+    "id": 14,
+    "category_hint": "laboral",
+    "text_original": "Solicitud de reconocimiento de horas extras y recargos nocturnos.",
+    "text_clean": "solicitud de reconocimiento de horas extras y recargos nocturnos",
+    "text_lemmatized": "solicitud reconocimiento hora extra recargo nocturno"
+  },
+  {
+    "id": 15,
+    "category_hint": "laboral",
+    "text_original": "Proceso laboral por terminación unilateral del contrato sin previo aviso.",
+    "text_clean": "proceso laboral por terminacion unilateral del contrato sin previo aviso",
+    "text_lemmatized": "proceso laboral terminacion unilateral contrato previo aviso"
+  },
+  {
+    "id": 16,
+    "category_hint": "laboral",
+    "text_original": "Demanda para el pago de liquidación laboral adeudada por el empleador.",
+    "text_clean": "demanda para el pago de liquidacion laboral adeudada por el empleador",
+    "text_lemmatized": "demanda pago liquidacion laboral adeudado empleador"
+  },
+  {
+    "id": 17,
+    "category_hint": "laboral",
+    "text_original": "Reclamación por despido discriminatorio contrario a la ley.",
+    "text_clean": "reclamacion por despido discriminatorio contrario a la ley",
+    "text_lemmatized": "reclamacion despido discriminatorio contrario ley"
+  },
+  {
+    "id": 18,
+    "category_hint": "laboral",
+    "text_original": "Solicitud de reintegro laboral por fuero sindical.",
+    "text_clean": "solicitud de reintegro laboral por fuero sindical",
+    "text_lemmatized": "solicitud reintegro laboral fuero sindical"
+  },
+  {
+    "id": 19,
+    "category_hint": "laboral",
+    "text_original": "Proceso por modificación unilateral de las condiciones de trabajo.",
+    "text_clean": "proceso por modificacion unilateral de las condiciones de trabajo",
+    "text_lemmatized": "proceso modificacion unilateral condición trabajo"
+  },
+  {
+    "id": 20,
+    "category_hint": "laboral",
+    "text_original": "Demanda para el reconocimiento de pensión por invalidez laboral.",
+    "text_clean": "demanda para el reconocimiento de pension por invalidez laboral",
+    "text_lemmatized": "demanda reconocimiento pension invalidez laboral"
+  },
+  {
+    "id": 21,
+    "category_hint": "penal",
+    "text_original": "El imputado fue capturado en flagrancia por el delito de hurto agravado.",
+    "text_clean": "el imputado fue capturado en flagrancia por el delito de hurto agravado",
+    "text_lemmatized": "imputado capturar flagrancia delito hurto agravado"
+  },
+  {
+    "id": 22,
+    "category_hint": "penal",
+    "text_original": "Audiencia de imputación de cargos por el delito de lesiones personales.",
+    "text_clean": "audiencia de imputacion de cargos por el delito de lesiones personales",
+    "text_lemmatized": "audiencia imputacion cargo delito lesión personal"
+  },
+  {
+    "id": 23,
+    "category_hint": "penal",
+    "text_original": "Solicitud de medida de aseguramiento privativa de la libertad.",
+    "text_clean": "solicitud de medida de aseguramiento privativa de la libertad",
+    "text_lemmatized": "solicitud medida aseguramiento privativo libertad"
+  },
+  {
+    "id": 24,
+    "category_hint": "penal",
+    "text_original": "Proceso penal por el delito de violencia intrafamiliar.",
+    "text_clean": "proceso penal por el delito de violencia intrafamiliar",
+    "text_lemmatized": "proceso penal delito violencia intrafamiliar"
+  },
+  {
+    "id": 25,
+    "category_hint": "penal",
+    "text_original": "Investigación penal adelantada por la fiscalía general de la nación.",
+    "text_clean": "investigacion penal adelantada por la fiscalia general de la nacion",
+    "text_lemmatized": "investigacion penal adelantado fiscalia general nacion"
+  },
+  {
+    "id": 26,
+    "category_hint": "penal",
+    "text_original": "Juicio oral por el delito de homicidio agravado.",
+    "text_clean": "juicio oral por el delito de homicidio agravado",
+    "text_lemmatized": "juicio oral delito homicidio agravado"
+  },
+  {
+    "id": 27,
+    "category_hint": "penal",
+    "text_original": "Solicitud de preclusión de la investigación penal por falta de pruebas.",
+    "text_clean": "solicitud de preclusion de la investigacion penal por falta de pruebas",
+    "text_lemmatized": "solicitud preclusion investigacion penal falta prueba"
+  },
+  {
+    "id": 28,
+    "category_hint": "penal",
+    "text_original": "Audiencia de legalización de captura conforme al debido proceso.",
+    "text_clean": "audiencia de legalizacion de captura conforme al debido proceso",
+    "text_lemmatized": "audiencia legalizacion captura conforme proceso"
+  },
+  {
+    "id": 29,
+    "category_hint": "penal",
+    "text_original": "Imposición de pena conforme a los criterios de proporcionalidad.",
+    "text_clean": "imposicion de pena conforme a los criterios de proporcionalidad",
+    "text_lemmatized": "imposicion pena conforme criterio proporcionalidad"
+  },
+  {
+    "id": 30,
+    "category_hint": "penal",
+    "text_original": "Proceso penal por fraude y estafa agravada.",
+    "text_clean": "proceso penal por fraude y estafa agravada",
+    "text_lemmatized": "proceso penal fraude estafa agravado"
+  },
+  {
+    "id": 31,
+    "category_hint": "civil",
+    "text_original": "Demanda por incumplimiento contractual y solicitud de indemnización de perjuicios.",
+    "text_clean": "demanda por incumplimiento contractual y solicitud de indemnizacion de perjuicios",
+    "text_lemmatized": "demanda incumplimiento contractual solicitud indemnizacion perjuicio"
+  },
+  {
+    "id": 32,
+    "category_hint": "civil",
+    "text_original": "Proceso de responsabilidad civil extracontractual por daños causados.",
+    "text_clean": "proceso de responsabilidad civil extracontractual por danos causados",
+    "text_lemmatized": "proceso responsabilidad civil extracontractual dano causado"
+  },
+  {
+    "id": 33,
+    "category_hint": "civil",
+    "text_original": "Acción para el reconocimiento de la propiedad por prescripción adquisitiva.",
+    "text_clean": "accion para el reconocimiento de la propiedad por prescripcion adquisitiva",
+    "text_lemmatized": "accion reconocimiento propiedad prescripcion adquisitivo"
+  },
+  {
+    "id": 34,
+    "category_hint": "civil",
+    "text_original": "Demanda de nulidad absoluta del contrato celebrado.",
+    "text_clean": "demanda de nulidad absoluta del contrato celebrado",
+    "text_lemmatized": "demanda nulidad absoluto contrato celebrado"
+  },
+  {
+    "id": 35,
+    "category_hint": "civil",
+    "text_original": "Proceso civil para la restitución de inmueble arrendado.",
+    "text_clean": "proceso civil para la restitucion de inmueble arrendado",
+    "text_lemmatized": "proceso civil restitucion inmueble arrendado"
+  },
+  {
+    "id": 36,
+    "category_hint": "civil",
+    "text_original": "Reclamación por incumplimiento de obligaciones contractuales.",
+    "text_clean": "reclamacion por incumplimiento de obligaciones contractuales",
+    "text_lemmatized": "reclamacion incumplimiento obligación contractual"
+  },
+  {
+    "id": 37,
+    "category_hint": "civil",
+    "text_original": "Demanda por enriquecimiento sin causa.",
+    "text_clean": "demanda por enriquecimiento sin causa",
+    "text_lemmatized": "demanda enriquecimiento causa"
+  },
+  {
+    "id": 38,
+    "category_hint": "civil",
+    "text_original": "Proceso de cobro ejecutivo por obligación vencida.",
+    "text_clean": "proceso de cobro ejecutivo por obligacion vencida",
+    "text_lemmatized": "proceso cobro ejecutivo obligacion vencido"
+  },
+  {
+    "id": 39,
+    "category_hint": "civil",
+    "text_original": "Acción civil para la reparación de daños materiales.",
+    "text_clean": "accion civil para la reparacion de danos materiales",
+    "text_lemmatized": "accion civil reparacion dano material"
+  },
+  {
+    "id": 40,
+    "category_hint": "civil",
+    "text_original": "Solicitud de resolución contractual por incumplimiento grave.",
+    "text_clean": "solicitud de resolucion contractual por incumplimiento grave",
+    "text_lemmatized": "solicitud resolucion contractual incumplimiento grave"
+  },
+  {
+    "id": 41,
+    "category_hint": "constitucional",
+    "text_original": "Interposición de acción de tutela para la protección de derechos fundamentales.",
+    "text_clean": "interposicion de accion de tutela para la proteccion de derechos fundamentales",
+    "text_lemmatized": "interposicion accion tutela proteccion derecho fundamental"
+  },
+  {
+    "id": 42,
+    "category_hint": "constitucional",
+    "text_original": "Tutela por vulneración al derecho fundamental a la salud.",
+    "text_clean": "tutela por vulneracion al derecho fundamental a la salud",
+    "text_lemmatized": "tutelar vulneracion derecho fundamental salud"
+  },
+  {
+    "id": 43,
+    "category_hint": "constitucional",
+    "text_original": "Acción de tutela por violación al debido proceso.",
+    "text_clean": "accion de tutela por violacion al debido proceso",
+    "text_lemmatized": "accion tutela violacion proceso"
+  },
+  {
+    "id": 44,
+    "category_hint": "constitucional",
+    "text_original": "Solicitud de amparo constitucional por discriminación.",
+    "text_clean": "solicitud de amparo constitucional por discriminacion",
+    "text_lemmatized": "solicitud amparo constitucional discriminacion"
+  },
+  {
+    "id": 45,
+    "category_hint": "constitucional",
+    "text_original": "Tutela para garantizar el derecho a la educación.",
+    "text_clean": "tutela para garantizar el derecho a la educacion",
+    "text_lemmatized": "tutela garantizar derecho educacion"
+  },
+  {
+    "id": 46,
+    "category_hint": "constitucional",
+    "text_original": "Protección del derecho fundamental a la igualdad.",
+    "text_clean": "proteccion del derecho fundamental a la igualdad",
+    "text_lemmatized": "proteccion derecho fundamental igualdad"
+  },
+  {
+    "id": 47,
+    "category_hint": "constitucional",
+    "text_original": "Revisión constitucional de una acción de tutela.",
+    "text_clean": "revision constitucional de una accion de tutela",
+    "text_lemmatized": "revision constitucional accion tutela"
+  },
+  {
+    "id": 48,
+    "category_hint": "constitucional",
+    "text_original": "Acción constitucional para proteger el mínimo vital.",
+    "text_clean": "accion constitucional para proteger el minimo vital",
+    "text_lemmatized": "accion constitucional proteger minimo vital"
+  },
+  {
+    "id": 49,
+    "category_hint": "constitucional",
+    "text_original": "Tutela contra entidad pública por omisión administrativa.",
+    "text_clean": "tutela contra entidad publica por omision administrativa",
+    "text_lemmatized": "tutela entidad publicar omision administrativo"
+  },
+  {
+    "id": 50,
+    "category_hint": "constitucional",
+    "text_original": "Solicitud de protección inmediata de derechos fundamentales vulnerados.",
+    "text_clean": "solicitud de proteccion inmediata de derechos fundamentales vulnerados",
+    "text_lemmatized": "solicitud proteccion inmediato derecho fundamental vulnerado"
+  }
+]
