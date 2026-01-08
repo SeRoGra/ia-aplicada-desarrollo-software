@@ -1,0 +1,22 @@
+{
+  "familia": [
+    "custodia", "alimentos", "divorcio", "patria", "potestad",
+    "menor", "familia", "visitas", "adopcion", "conyugal"
+  ],
+  "laboral": [
+    "contrato", "salario", "despido", "prestaciones", "empleador",
+    "trabajador", "jornada", "indemnizacion", "acoso", "liquidacion"
+  ],
+  "penal": [
+    "delito", "imputacion", "captura", "fiscalia", "pena",
+    "hurto", "homicidio", "violencia", "audiencia", "estafa"
+  ],
+  "civil": [
+    "contrato", "obligacion", "responsabilidad", "daño", "perjuicio",
+    "propiedad", "posesion", "demanda", "incumplimiento", "restitucion"
+  ],
+  "constitucional": [
+    "tutela", "derechos", "fundamentales", "debido", "proceso",
+    "igualdad", "corte", "constitucional", "proteccion", "amparo"
+  ]
+}
