@@ -10,15 +10,12 @@ El objetivo principal del repositorio es documentar y versionar las soluciones i
 
 El repositorio se organiza por **unidades académicas**, y cada unidad contiene sus respectivas actividades:
 
-├── Unidad-1/
-│ ├── Actividad-1/
-│ ├── Actividad-2/
-│ └── Actividad-3/
-├── Unidad-2/
-│ └── ...
-├── Unidad-3/
-└──── ...
-
+- `Unidad-1/`
+  - `Actividad-1/`
+  - `Actividad-2/`
+  - `Actividad-3/`
+- `Unidad-2/`
+- `Unidad-3/`
 
 
 Cada actividad incluye:
