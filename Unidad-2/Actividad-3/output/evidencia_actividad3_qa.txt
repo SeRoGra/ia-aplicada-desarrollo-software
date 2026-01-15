@@ -1,0 +1,18 @@
+Actividad 3 - Prototipo QA Jurídico (RAG ligero)
+================================================
+
+Pregunta del usuario:
+¿Que hago si termine mi relación con mi novia y nunca firme capitulaciones?
+
+Respuesta:
+conciliacion_extrajudicial
+Confianza (score): 0.0001
+
+Fuentes recuperadas (top-k):
+- 03_conciliacion_extrajudicial.txt | chunk 1 | similitud=0.2019
+  Conciliación extrajudicial. En algunos asuntos, la conciliación puede ser un requisito de procedibilidad. Se recomienda verificar si el caso admite conciliación y ante qué autoridad. La conciliación b...
+- 05_derechos_victimas_conflicto.txt | chunk 1 | similitud=0.1379
+  Victimas del conflicto armado: orientación. Las víctimas pueden tener derecho a medidas de asistencia, atención, reparación y garantías de no repetición. Se recomienda orientar sobre rutas institucion...
+- 02_violencia_intrafamiliar_resumen.txt | chunk 1 | similitud=0.1081
+  Resumen: violencia intrafamiliar. La violencia intrafamiliar puede incluir violencia física, psicológica, económica o patrimonial en el contexto familiar. Ante riesgo, se pueden solicitar medidas de p...
+
