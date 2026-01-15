@@ -1,0 +1,52 @@
+Actividad 2 - NER jurídico (spaCy)
+================================
+
+Texto 1:
+Según la Ley 100 de 1993, se regula el sistema de seguridad social integral en Colombia.
+ - Ley 100 de 1993 | NORMA
+ - Colombia | LOC
+
+Texto 2:
+La víctima reportó violencia intrafamiliar ocurrida el 12 de mayo de 2022 en Bogotá.
+ - violencia intrafamiliar | VIOLENCIA
+ - Bogotá | LOC
+
+Texto 3:
+Se investigan hechos por violencia económica y violencia patrimonial en el entorno familiar.
+ - violencia económica | VIOLENCIA
+ - violencia patrimonial | VIOLENCIA
+
+Texto 4:
+El ciudadano Juan Pérez presentó recurso el 05/01/2021 ante el Juzgado 3 Civil del Circuito.
+ - Juan Pérez | PER
+ - 05/01/2021 | FECHA
+ - Juzgado 3 Civil del | ORG
+ - Circuito | LOC
+
+Texto 5:
+Con fundamento en la Ley 1098 de 2006 se garantiza el interés superior del menor.
+ - Ley 1098 de 2006 | NORMA
+
+Texto 6:
+Se solicitó medida de protección por violencia intrafamiliar y se fijó audiencia el 20 de agosto de 2023.
+ - violencia intrafamiliar | VIOLENCIA
+
+Texto 7:
+La resolución administrativa indica la obligación según Ley 1562 de 2012 y normas concordantes.
+ - Ley 1562 de 2012 | NORMA
+
+Texto 8:
+María Gómez afirmó que el hecho ocurrió el 02/02/2020 en Cali, Valle del Cauca.
+ - María Gómez | PER
+ - 02/02/2020 | FECHA
+ - Cali | LOC
+ - Valle del Cauca | LOC
+
+Texto 9:
+En aplicación de la Ley 640 de 2001 se ordena agotar conciliación antes de continuar el proceso.
+ - Ley 640 de 2001 | NORMA
+
+Texto 10:
+El proceso se adelanta ante la jurisdicción laboral ordinaria en Medellín y se solicita reintegro.
+ - Medellín | LOC
+
