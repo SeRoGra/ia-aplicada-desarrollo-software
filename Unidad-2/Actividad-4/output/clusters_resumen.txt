@@ -1,0 +1,51 @@
+Actividad 4 - Clustering semántico de textos jurídicos
+=====================================================
+
+Embeddings: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+Clustering: kmeans
+KMeans K: 5
+Visualización: tsne
+
+Distribución por cluster:
+cluster
+0    35
+1    13
+2    31
+3    22
+4    24
+
+Cruce cluster vs tema_real:
+tema_real  civil  familia  laboral  migratorio  penal
+cluster                                              
+0              0       10        0           0     25
+1              0        0       13           0      0
+2              3        8       12           8      0
+3             22        0        0           0      0
+4              0        7        0          17      0
+
+Ejemplos por cluster (3):
+
+--- Cluster 0 ---
+* (penal) Se investiga el delito de hurto y se ordena la práctica de pruebas en Medellín. Referencia: Ley 1098 de 2006.
+* (penal) Se investiga el delito de hurto y se ordena la práctica de pruebas en Cali. Referencia: Ley 1098 de 2006.
+* (penal) En el proceso penal se analizan elementos materiales probatorios relacionados con hurto. Referencia: Ley 100 de 1993.
+
+--- Cluster 1 ---
+* (laboral) El trabajador interpuso denuncia por despido sin justa causa y salarios caídos. Referencia: Ley 1098 de 2006.
+* (laboral) Se alega acoso laboral y se solicita reintegro por estabilidad reforzada. Referencia: Ley 1448 de 2011.
+* (laboral) El trabajador interpuso tutela por despido sin justa causa y salarios caídos. Referencia: Ley 1010 de 2006.
+
+--- Cluster 2 ---
+* (migratorio) El caso involucra verificación de permisos, atención humanitaria y enfoque diferencial. Referencia: Ley 100 de 1993.
+* (familia) Se analiza la filiación y el interés superior del menor conforme a Ley 100 de 1993. Referencia: Ley 1448 de 2011.
+* (migratorio) El caso involucra verificación de permisos, atención humanitaria y enfoque diferencial. Referencia: Ley 1098 de 2006.
+
+--- Cluster 3 ---
+* (civil) Se presentó demanda por incumplimiento contractual y reclamación de perjuicios. Referencia: Ley 1448 de 2011.
+* (civil) Se presentó recurso por incumplimiento contractual y reclamación de perjuicios. Referencia: Ley 1010 de 2006.
+* (civil) Se presentó demanda por incumplimiento contractual y reclamación de perjuicios. Referencia: Ley 1010 de 2006.
+
+--- Cluster 4 ---
+* (familia) Se tramita proceso de alimentos, custodia y regulación de visitas. Referencia: Ley 1257 de 2008.
+* (familia) Se tramita proceso de alimentos, custodia y regulación de visitas. Referencia: Ley 1010 de 2006.
+* (migratorio) Se requiere asesoría para proteger derechos de población migrante y mecanismos de protección. Referencia: Ley 1448 de 2011.
